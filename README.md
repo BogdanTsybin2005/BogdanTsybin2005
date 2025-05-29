@@ -35,15 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanTsybin2005&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanTsybin2005&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ### 📬 Contact
 
 - Telegram: [@bogdan_sest_1025](https://t.me/bogdan_sest_1025)
