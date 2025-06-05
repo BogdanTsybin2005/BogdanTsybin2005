@@ -42,4 +42,4 @@
 
 - Telegram: [@bogdan_sest_1025](https://t.me/bogdan_sest_1025)
 - Email: [tsybinb@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tsybinb@gmail.com)
-- Portfolio: [site-portfolio](https://bogdantsybin2005.github.io/site-portfolio)
+- Portfolio: [site-portfolio](https://bogdan-s-site-portfolio-9499e.firebaseapp.com/)
